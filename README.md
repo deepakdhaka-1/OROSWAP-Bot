@@ -1,5 +1,5 @@
 # OROSWAP-Bot
-This is a incentivized testnet , more interation = more points = more $$
+This is a incentivized testnet , more interaction = more points = more $$
 ---
 ## Create New Keplr Wallet with `zigchain`
 Faucet Link 
